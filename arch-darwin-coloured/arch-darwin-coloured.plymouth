@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Arch Darwin Plymouth Coloured
+Description=Arch linux boot screen inspired by Darwin now coloured
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/arch-darwin-coloured/assets
+ScriptFile=/usr/share/plymouth/themes/arch-darwin-coloured/assets/arch-darwin-coloured.script
